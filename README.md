@@ -1,5 +1,4 @@
-## Projeto olist 
-
+## Projeto olist Analisando dados de um E-commmercer
 
 
 Configurando variaveis de ambiente arquivo `.env` 

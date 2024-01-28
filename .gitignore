@@ -2,6 +2,16 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode
 
+
+
+# ignore database
+database/
+
+
+.env
+env/
+env
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
